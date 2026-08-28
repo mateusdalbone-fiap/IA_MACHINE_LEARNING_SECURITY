@@ -17,7 +17,7 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 
 | Tópico | Notebook | Colab |
 |------|:--------:|:------:|
-| 01 - Antivírus baseado em Machine Learning | [Notebook](./notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb)) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/main/notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
+| 01 - Antivírus baseado em Machine Learning | [Notebook](./notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/main/notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
 | 02 - | | |
 | 03 - | | |
 
