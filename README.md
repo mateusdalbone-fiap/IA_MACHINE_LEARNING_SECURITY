@@ -3,9 +3,9 @@
 
 Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 
-> **📌 Sobre os Checkpoints**
+> **📌 Sobre os Snapshots**
 >
-> Quando um notebook se estender por mais de uma aula, será disponibilizado um **checkpoint** contendo o **estado final da aula anterior**, servindo como **ponto de partida da aula seguinte**.
+> Quando um notebook se estender por mais de uma aula, será disponibilizado um **snapshots** contendo o **estado final da aula anterior**, servindo como **ponto de partida da aula seguinte**.
 
 > **📌 Sobre as Versões Finais**
 >
