@@ -28,7 +28,7 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 | Pasta | Descrição |
 |---------|-------------|
 | **notebooks-aulas/** | Notebooks utilizados durante as aulas, contendo o conteúdo principal trabalhado em sala. |
-| **checkpoints/** | Estados intermediários disponibilizados quando uma aula continua em um notebook posterior. Funcionam como ponto de partida para a próxima aula. |
+| **snapshots/** | Estados intermediários disponibilizados quando uma aula continua em um notebook posterior. Funcionam como ponto de partida para a próxima aula. |
 | **notebooks-finais/** | Versões completas dos notebooks, contendo todas as implementações, análises e resultados esperados ao final da atividade. |
 | **datasets/** | Arquivos de dados utilizados em exemplos, exercícios e projetos da disciplina. |
 | **resources/** | Recursos auxiliares utilizados nas aulas, como arquivos de apoio, documentos e materiais complementares. |
