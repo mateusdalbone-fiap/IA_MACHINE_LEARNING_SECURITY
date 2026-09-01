@@ -18,7 +18,7 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 | Tópico | Notebook | Colab |
 |------|:--------:|:------:|
 | 01 - Antivírus baseado em Machine Learning | [Notebook](./notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/main/notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
-| ↳ Snapshot para iniciar a Aula 02| [Notebook](./snapshots/[snapshot_aula_1end_2start]01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/main/snapshots/[snapshot_aula_1end_2start]01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
+| ↳ Snapshot para iniciar a Aula 02| [Notebook](./snapshots/[snapshot_aula_1end_2start]01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/fiap-redes-neurais-dl-ag/blob/2TDCPG-2026/snapshots/[snapshot_aula_1end_2start]01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
 | 03 - | | |
 | 03 - | | |
 
