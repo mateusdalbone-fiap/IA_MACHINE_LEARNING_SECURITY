@@ -19,7 +19,7 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 |------|:--------:|:------:|
 | 01 - Antivírus baseado em Machine Learning | [Notebook](./notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/main/notebooks-aulas/01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
 | ↳ Snapshot para iniciar a Aula 02| [Notebook](./snapshots/[snapshot_aula_1end_2start]01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPG-2026/snapshots/%5Bsnapshot_aula_1end_2start%5D01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
-| 02 - Deep Learning para Detecção de Áudio Sintético (Deepfake)| [Notebook](./notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/main/notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) |
+| 02 - Deep Learning para Detecção de Áudio Sintético (Deepfake)| [Notebook](./notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPG-2026/notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) |
 | 03 - | | |
 
 ---
