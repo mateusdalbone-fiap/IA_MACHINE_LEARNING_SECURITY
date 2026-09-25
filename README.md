@@ -22,8 +22,13 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 | ↳ Versão Final da Aula 02 |[Notebook](./notebooks-finais/%5Bfinal%5D01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCR-2026/notebooks-finais/%5Bfinal%5D01_01092026_ML_ANTIVIRUS_ML_IA_SEC_SKLT.ipynb) |
 | 02 - Deep Learning para Detecção de Áudio Sintético (Deepfake)| [Notebook](./notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCR-2026/notebooks-aulas/02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) |
 | ↳ Snapshot para iniciar a Aula 02| [Notebook](./snapshots/%5Bsnapshot_aula_3end_4start%5D02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCR-2026/snapshots/%5Bsnapshot_aula_3end_4start%5D02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) |
+| ↳ Versão Final da Aula 04 |[Notebook](./notebooks-finais/[final_aula_4]02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCR-2026/notebooks-finais/[final_aula_4]02_08092026_DeepLearning_FakeAudioDetection_ML_IA_SEC_SKLT.ipynb) |
 | 03 - Detecção Inteligente de Intrusões: Identificação de Anomalias em Tráfego de Rede com Autoencoders e Variational Autoencoders | [Notebook](./notebooks-aulas/03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCR-2026/notebooks-aulas/03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) |
 | 03 - | | |
+
+
+
+
 
 ---
 
