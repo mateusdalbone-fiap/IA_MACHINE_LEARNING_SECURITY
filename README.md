@@ -26,6 +26,9 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 | 03 - Detecção Inteligente de Intrusões: Identificação de Anomalias em Tráfego de Rede com Autoencoders e Variational Autoencoders | [Notebook](./notebooks-aulas/03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPF-2026/notebooks-aulas/03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) |
 | ↳ Versão Final da Aula 05 |[Notebook](./notebooks-finais/[final_aula_5]03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPF-2026/notebooks-finais/[final_aula_5]03_17082026_AE_VAE_IDS_ANOMALY_GenAI_ADVNETS_SKLT.ipynb) |
 | 04 - Agentes de IA: Ataques Adversariais, Engenharia de Prompt e Defesas em Camada | [Notebook](./notebooks-aulas/04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPF-2026/notebooks-aulas/04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) |
+| ↳ Snapshot para iniciar a Aula 06| [Notebook](./snapshots/[snapshot_aula_5end_6start]04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPF-2026/snapshots/[snapshot_aula_5end_6start]04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) |
+
+
 
 
 
