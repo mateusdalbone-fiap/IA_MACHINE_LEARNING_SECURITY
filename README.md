@@ -30,6 +30,8 @@ Material utilizado na disciplina **IA e MACHINE LEARNING SECURITY** da FIAP.
 | ↳ Versão Final da Aula 07 |[Notebook](./notebooks-finais/[final_aula_7]04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusdalbone-fiap/IA_MACHINE_LEARNING_SECURITY/blob/2TDCPG-2026/notebooks-finais/[final_aula_7]04_13102026_AIAGENTS_ADVERSARIAL_ML&AI_SKLT.ipynb) |
 
 
+Revisão: https://docs.google.com/presentation/d/1MUDGonl17-FxkqX6adpPtMVPmSgyDsbjc3sjrZ8BkRM/edit?slide=id.hbe38242d9f49a8a_3_914#slide=id.hbe38242d9f49a8a_3_914
+
 
 ---
 
